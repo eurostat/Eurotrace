@@ -16,3 +16,14 @@ Each module is independently installable, offering users flexibility to deploy o
 - Automated Data Import: EUROTRACE can automatically read various electronic file formats, such as ASYCUDA (Automated System for Customs Data). Developed by UNCTAD in Geneva, ASYCUDA is a comprehensive customs management tool that supports foreign trade procedures, including manifests, customs declarations, accounting, transit, and suspense procedures.
 - Error Minimisation: For data available only on paper, manual entry often introduces additional errors. The EUROTRACE Editor addresses this by validating data in real time, significantly reducing entry mistakes.
 - Customisable Data Visualisation: The COMEXT Standalone application provides a user-friendly interface for visualising data. It connects directly to the EUROTRACE DBMS and enables the creation of customised statistical tables.
+
+
+# Downloading Note
+
+> First you will have to confirm in your browser that the file is safe to be downloaded by Clicking on the **Keep** button.
+> 
+> <img width="446" height="238" alt="image" src="https://github.com/user-attachments/assets/9b19f1f2-285f-42a9-8ece-e62b11878e5b" />
+
+> Then, once the file is downloaded, open its properties and click on “Unblock”. The program is ready to be installed on your computer.
+> 
+> <img width="403" height="566" alt="image" src="https://github.com/user-attachments/assets/fa7e671d-86c8-46b0-8289-0cfa1cae2e0d" />
